@@ -1,9 +1,9 @@
 # FIFA-18-API
-It's a API containing all details 17891 players listed in FIFA 18, accessible with their rank. Taken best rank as 0 [zero - as the array convention] ending at 17890.
+It's an API containing all the details of 17891 players listed in FIFA 18, accessible with their respective ranks. Taken best rank as 0 [zero - as the array convention] ending at 17890.
 
 ## Getting Started
 
-Simply the project can be deployed in a Node environment. To install all necessery node modules used here, it's always preferable to use
+Simply the project can be deployed in a Node environment. To install all the necessery node modules used here, it's always preferable to use
 ```
 npm install .
 ```
@@ -26,7 +26,7 @@ npm install mongoose@4.5.9 --save
 
 ## Running the tests
 
-For the test, package.json has to be changed
+For the tests, package.json has to be changed
 
 ### Break down into end to end tests
 
